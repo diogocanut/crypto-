@@ -1,3 +1,3 @@
 # crypto-
 
-FOlder dedicated to tests with cryptocurrences and frameworks.
+Folder dedicated to tests with cryptocurrences and frameworks.
